@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @andreborile
-- 👀 I’m interested in ... java app development
+- 👀 I’m interested in ... Java Mobile App Development
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... andre.borile@gmail.com
 
-teste
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <!---
 andreborile/andreborile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
