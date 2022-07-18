@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Java
 - 📫 How to reach me ... andre.borile@gmail.com
 
-<p allign="center">
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
   
 <!---
