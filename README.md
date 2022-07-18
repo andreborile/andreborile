@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @andreborile
-- 👀 I’m interested in ... java app development and data science in python
-- 🌱 I’m currently learning ... java and python
+- 👀 I’m interested in ... java app development
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... andre.borile@gmail.com
+
+teste
 
 <!---
 andreborile/andreborile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
