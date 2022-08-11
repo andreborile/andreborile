@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ps" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,ps" />
   </a>
 </p>
