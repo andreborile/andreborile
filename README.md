@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreborile
-- 👀 I’m interested in ... Java Mobile App Development
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... become a software developer
+- 🌱 I’m currently learning ... Python, SQL and Front End
 - 📫 How to reach me ... andre.borile@gmail.com
 
 <p align="center">
@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,ps" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,ps" />
   </a>
 </p>
