@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreborile
 - 👀 I’m interested in ... become a software developer
-- 🌱 I’m currently learning ... Python, SQL and Front End
+- 🌱 I’m currently learning ... Python, SQL for Data Science  
 - 📫 How to reach me ... andre.borile@gmail.com
 
 <p align="center">
