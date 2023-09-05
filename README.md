@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andreborile&layout=compact&theme=dracula)
+  <img src=![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andreborile&layout=compact&theme=dracula)/>
 </div>
 
 <p align="center">
