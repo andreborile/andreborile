@@ -12,9 +12,7 @@ andreborile/andreborile is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
   ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andreborile&layout=compact&theme=dracula)
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
