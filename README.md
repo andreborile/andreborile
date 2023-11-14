@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreborile
 - 👀 I’m interested in ... become a software developer
-- 🌱 I’m currently learning ... Python, SQL for Data Science  
+- 🌱 I’m currently learning ... Cloud Infrastructure and Python and SQL for Data Science  
 - 📫 How to reach me ... andre.borile@gmail.com
 
 <p align="center">
@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,mysql,postgres,java,ps" />
+    <img src="https://skillicons.dev/icons?i=aws,py,flask,django,mysql,postgres,java,ps" />
   </a>
 </p>
